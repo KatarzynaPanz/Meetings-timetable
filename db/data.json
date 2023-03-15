@@ -1,0 +1,28 @@
+{
+  "meetings": [
+    {
+      "firstName": "Kasia",
+      "lastName": "Kowalska",
+      "email": "kasia@op.pl",
+      "date": "2002-12-10",
+      "time": "10:00",
+      "id": 1
+    },
+    {
+      "firstName": "Kasia",
+      "lastName": "Kowalska",
+      "email": "kasia@op.pl",
+      "date": "2002-12-10",
+      "time": "10:00",
+      "id": 2
+    },
+    {
+      "firstName": "Kasia",
+      "lastName": "Kowalska",
+      "email": "kasia@op.pl",
+      "date": "2002-12-10",
+      "time": "10:00",
+      "id": 3
+    }
+  ]
+}
